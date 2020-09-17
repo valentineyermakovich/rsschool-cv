@@ -1,6 +1,6 @@
 # Valentine Yermakovich
 ## Contacts
-**E-mail**: valik123qaz@gmail.com
+**E-mail**: valik123qaz@gmail.com  
 **Phone**: +375295954105    
 As a newcomer in programming, my goal is to develop my programming skills. As a student, I think, that any knowledge I get could help me in my future career. If you ask me about my strengths, i have to admit:
 * hard-working
@@ -25,3 +25,5 @@ As a newcomer in programming, my goal is to develop my programming skills. As a 
 Belarusian State Technological University (2019 - present)  
 Faculty of Information Technologies  
 Speciality: Information Systems and Technologies
+## Level of English
+B1(Intermidiate)
